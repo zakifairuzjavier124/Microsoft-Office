@@ -1,0 +1,17 @@
+Soal Latihan Chapter 1
+
+Menu toolbar yang digunakan yang digunakan untuk dapat 
+memunculkan slide yaitu....
+jawab:View
+
+Untuk memunculkan sebuah objek seperti gambar, shape, chart dan equation maka
+digunakan toolbar...
+jawab:Insert
+
+Apabila hendak memberikan efek pada slide tertentu
+saat presentasi maka menggunakan menu
+jawab:Transition
+
+untuk setting objek efek opening dan closing
+maka terdapat di menu toolbar...
+jawab:Animations

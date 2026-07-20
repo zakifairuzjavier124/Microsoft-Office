@@ -1,0 +1,27 @@
+1. Membuat tabel dan editing
+pada tampilan tabel
+-Pilih toolbar Insert
+-Pilih Table Pada toolbox
+-Klik Insert Table
+-Column Ada 3 dan Row ada 5
+-Lalu Klik Ok
+-Ketikkan Data E Commerce, Kuartal 1 2020, Kuartal 2 2020
+-Lalu isikan data masing masing
+
+2. Membuat Chart - Formal
+display chart
+-Pilih Toolbar Data
+-Pilih toolbox Chart Pilih Pie
+-Otomatis Masuk Ke Excel Isikan Sesuai Data
+
+Shoppe 71,5 juta 93 juta
+
+Tokopedia 69,8 Juta 86 Juta
+
+Bukalapak 37,6 Juta 35 Juta
+
+Lazada 24,2 Juta 22 Juta
+
+BliBli 17,6 Juta 18 Juta
+
+

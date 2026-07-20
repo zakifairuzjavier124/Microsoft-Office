@@ -1,0 +1,23 @@
+1.Membuat editing 2 column
+page(Journal Template)
+-Blok Bagian Judul Lalu di rata tengahkan
+-Setelah itu blok semua Data Jurnalnya
+-Pilih toolbar Layout
+-Pilih Toolbox Column
+-Pilih Two Pada Column
+
+2.Membuat format judul dengan
+WordArt(NewsPaper)
+-Bagian Judul Virus Corona Di rata tengahkan
+-setelah di rata tengahkan bagian judul dikasih wordart
+-Setelah dikasih word art judulnya dikasih ukuran 30
+- Setelah itu bagian artikel dikasih column 2
+- setelah itu search pilih border and shading
+- Pilih ukuran widthnya 25
+- Sesuaikan art yang kalian inginkan
+- Lalu Klik Ok
+
+
+3.Membuat Border Page
+-untuk membuat border klik toolbar Layout
+-Lalu bagian margins

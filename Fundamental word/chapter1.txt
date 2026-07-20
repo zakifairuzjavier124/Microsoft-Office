@@ -1,0 +1,20 @@
+1. Berikan Judul: Edukasi Jenis Masker
+-Ketik Edukasi Jenis Masker
+-Masuk Ke toolbar Home Lalu pilih rata tengah
+-Pilih Bold
+-Pada artikel gunakan rata kiri rata kanan
+
+
+2. Gunakan headings 1 untuk jenis masker
+-Masuk ke toolbar Home
+-Pilih Heading 1 pada toolbox
+-Lalu pilih Bold pada toolbox
+
+3. Setting spacing antar paragraph 1,5cm
+-Masuk Ke toolbar Home
+-Pilih line paragraph and spacing
+
+4. Tampilkan table of contents pada headings
+-Masuk Ke toolbar References
+-Klik Table of Contents Pada toolbox
+

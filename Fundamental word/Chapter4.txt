@@ -1,0 +1,10 @@
+Page Number 
+
+-Klik Pada Bagian Bawah Langsung muncul header footer
+-Pilih toolbar Header Dan Footer
+-Klik Page Number
+-Pilih Alignment Center
+-Setelah itu Klik Page Number Format Di toolbox
+-Pilih Number Format i, ii, iii
+-Pilih Start at 1
+-Lalu Klik Ok

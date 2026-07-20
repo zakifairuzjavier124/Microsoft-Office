@@ -1,0 +1,44 @@
+-Bab 1 Heading 1
+-Bagian Definisi Integrated Marketing Communication dikasih 1.1
+-paragraph kasih line spacing option
+-Teori Integrated Marketing Communication dikasih 1.2
+-Bagian Bab 1 dan pendahuluan di rata tengahkan dan di bold
+-Bagian Bab 2 dan Landasan Teori Font Times New Roman
+Dan Ukuran Font 12
+
+
+
+1.Melakukan setting table of content (Daftar Isi)
+-Pilih Toolbar References
+-Klik table of contents pada toolbox
+
+2. Menampilkan Daftar Gambar
+-Pilih toolbar Data
+-Pilih toolbox Insert Table Of Figure
+-Klik Gambar
+
+
+
+
+2. Membuat daftar gambar (Insert Table of Figures) dan daftar
+tabel (Insert Captions)
+-Pilih toolbar Reference
+-Pilih Insert Caption
+-Di caption Pilih New Label Ketik Gambar kalau
+ingin dalam bahasa indonesia
+-pilih Position Below selected item
+-setelah itu gambarnya di rata tengahkan
+beserta keterangan gambar tersebut
+-Bagian Teori Integrated Marketing Communication
+Kasih Bold dan tandai 1.2
+-Pada Gambar Kedua Dikasih Insert Caption
+Seperti Gambar Pertama
+-Namai sama seperti gambar 1 yaitu
+Teori Integrated Marketing Communication
+-Setelah itu Captionnya Ubah Font 
+Menjadi Times New Roman Ukuran 12
+-Lalu Pilih Bold
+-Namai Gambar 3 Sama Seperti Gambar 1 dan 2
+-Namai Caption Contoh Youtube
+-Lalu Gambar Ikon Youtube Dan Caption Di
+rata tengahkan

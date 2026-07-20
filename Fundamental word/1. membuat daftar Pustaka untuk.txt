@@ -1,0 +1,34 @@
+1. membuat daftar Pustaka untuk
+jurnal, buku dll
+-Pilih toolbar Reference
+-lalu Pilih toolbox Insert Citation
+-lalu klik add new source
+-Pilih type of source Book
+- Klik title Aplikasi Analisis Multivariate Dengan Program IBM SPSS 23 (Edisi 8)
+-Ketikan bagian city Semarang
+-Ketikan bagian Publisher Universitas Diponegoro
+-Ketikan bagian Year 2016
+-Lalu Klik Ok
+-Lalu Klik bagian Insert Citation
+-Pilih Create Source
+-Pilih Type of Source Journal Article
+-Ketik bagian author J, W Florence Farida
+-Ketik bagian title ANALISIS TREND OMZET PENJUALAN SEPATU DAN SANDAL DI CV.PRIBADI TIGA KOTA MOJOKERTO TAHUN 2015-2017
+-Ketik Di Bagian Journal Name yaitu jurnal ilmiah Pendidikan, Ilmu Ekonomi dan Ilmu Sosial
+-Ketik di bagian year 2018
+-Ketik di bagian pages 155-161
+-Klik di bagian Insert Citation
+-Klik di bagian new source
+-Ketik di bagian Author B.P BPS
+-Ketik di bagian title Pertumbuhan Produksi IBS Tahu 2019 Naik 4,01 Persen Dibandingkan Tahun 2018
+-Ketik di bagian Publisher bps.go.id
+-Ketik di bagian City Jakarta
+-Ketik Year yaitu 2018
+-Lalu Klik Ok
+
+2.Menampilkan Bibliography
+-Pilih toolbar References
+-Setelah itu Pilih Bibliography di toolbox
+-Setelah itu klik yang sudah di insert citation
+-Lalu Judul Biblipgraphy diganti dengan nama References dengan ukuran font 12
+lalu di rata tengahkan 
