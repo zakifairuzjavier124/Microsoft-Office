@@ -1,0 +1,16 @@
+Latihan Chapter 3
+Create slide master
+-Pilih toolbar View
+-Pilih toolbox Slide master
+-Ketik Presentasi Bisnis pada slide
+-Lalu masukkan gambar
+-Setelah itu di slide kedua ketik Pembelajaran Online
+-pada subjudul ketik E Learning
+-kalau ingin menambahkan shape klik Insert pada toolbar
+-Lalu pilih shape pada toolbox
+-lalu di slide ketiga ketik pembelajaran online
+-lalu di slide keempat juga ketik Pembelajaran Online
+-lalu di slide kelima juga ketik Pembelajaran Online
+sebagai simulasi
+-untuk menutup slide master Klik Slide Master pada toolbox
+-Setelah itu Pilih Close Master View pada toolbox

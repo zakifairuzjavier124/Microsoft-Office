@@ -1,0 +1,8 @@
+Latihan Chapter 8 How to Setting Background, Music, And Duration
+-Klik Kanan pada Background
+-Lalu klik Format Background
+-setelah itu pilih warna Background sesuai yang diinginkan
+-Pilih texture background yang diinginkan
+-Untuk Efek Suara Masuk toolbar Transitions
+-Klik pada sound
+-Misalnya Pilih Applause

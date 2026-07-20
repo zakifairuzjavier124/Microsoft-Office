@@ -1,0 +1,8 @@
+Latihan Chapter 5 Create Design Background Smartart
+-Pilih toolbar Insert
+-Pilih SmartArt Di Insert toolbox
+-Klik Coding, Word, PPT di list
+-Lalu buat SmartArt yang kedua
+-Lalu ketik Registrasi aplikasi, Isi Form Student, Email Registrasi
+-Lalu buat SmartArt yang ketiga 
+-Lalu ketik Mr Andi, Mrs Andi, Mr. Barry, Mr. Kartono, Mrs. Siska

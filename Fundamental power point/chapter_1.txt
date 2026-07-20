@@ -1,0 +1,22 @@
+1. Memahami cara untuk membuat slide dengan template
+yang berbeda
+-Tulis Heading Pada slide dengan judul Slide 1
+-Lalu di rata tengahkan
+-lalu masukkan contennya berupa kalimat
+-Setelah itu kecilkan box contentnya
+-Lalu buat slidenya lagi bernama slide 2
+-lalu di rata tengahkan
+-lalu buat slide 3
+-Dan di rata tengahkan
+
+2. memasukkan objek berupa
+gambar, shape dan cara membuat kotak teks
+-untuk memasukkan gambar klik toolbar Insert
+-setelah itu pilih toolbox picture
+-lalu pilih this device
+-untuk menambahkan shape klik Insert pada toolbox
+-lalu Pilih shapes pada toolbox
+-setelah itu shapenya diformat warna merah maroon
+-lalu di slide 3 masukkan gambar
+-kalau gambar 3 ingin di tengahkan secara otomatis
+klik arrange pada toolbox

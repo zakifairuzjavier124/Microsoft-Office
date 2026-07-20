@@ -1,0 +1,10 @@
+Latihan Chapter 3 Morph Animation
+-Pilih Shapes yang diinginkan minimal dua shape
+untuk di simulasikan
+-Lalu Klik bagian Animation pada toolbox
+-Lalu Pilih Animations Sesuai yang diinginkan
+-Setelah itu bagian shape kedua pilih animation sesuai yang diinginkan juga
+-untuk mengubah timingnya pilih After Previous pada menu ikon
+start
+untuk durasinya satu detik di bagian Duration pada toolbox
+-untuk delaynya 0,5 detik pada toolbox
