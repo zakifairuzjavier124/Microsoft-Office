@@ -1,0 +1,65 @@
+Urutkan Negara asal mulai dari Amerika Serikat, England, Kanada, Swedia dan Kuba
+-pilih file
+-pilih more
+-klik options
+-pilih advanced
+-di bagian bawah klik edit custom list
+-isikan list sesuai dengan negara yang telah ditentukan
+-klik header pada tabel
+-pilih menu toolbar data
+-pilih sort
+-pilih sort by Negara Asal
+-pilih order custom list
+-klik ok
+
+Urutkan negara asal pada urutan perintah 1 dan harga akhir secara Descending
+-klik header pada tabel
+-pilih toolbar data
+-klik sort
+-pilih order Amerika Serikat, England, Kanada, Swedia Dan Kuba
+-tambah add level pada item sort
+-pilih column Harga Akhir
+-Pilih order Largest to Smallest
+
+Urutkan nama secara ascending, harga secara descending dan kode tiket Z To A
+-Klik salah satu header pada tabel
+-pilih toolbar data
+-pilih sort
+-pilih sort by Nama
+-Klik Add Level
+-Pilih Then by Harga
+-Pilih Order Largest to Smallest
+-Pilih Add Level
+-Pilih Then By Kode Tiket
+-Pilih Order Z to A
+
+Eliminasi data berdasarkan kode tiket yang berawalan huruf G dan berakhiran angka 0
+-Klik Salah Satu Header pa
+-Pilih toolbar Data
+-Klik Icon Filter
+-Klik Begin With Pada Custom AutoFilter
+-Ketik G disamping Begins With
+-Klik ends with di bagian bawah opsi and or
+-Ketik 0 disamping ends with
+-Klik tombol close
+
+Eliminasi data berdasarkan nama mengandung dua huruf
+E, Harga Akhir Rp 275.000.000 dan Negara Tujuan
+mengandung 2 huruf A
+-Klik header pada tabel
+-Pilih toolbar Data
+-Pilih Filter
+-Klik Nama Setelah itu muncul Custom sort
+-Pilih Contains dibawah Opsi By Color
+-Disamping Contains Ketik Huruf *E*E*
+-Klik Ok
+-Klik Nama masuk ke custom Sort
+-Klik Contains Pada Text Filter
+-Ketik disamping Contains *E*E*
+-Klik Harga Akhir masuk ke custom short
+-Uncheklist semua opsi
+-Cheklist yang bernilai 275.000.000
+-Klik Negara Tujuan masuk ke custom short
+-Pilih Text Filter Klik Contains
+-Ketik *A*A*
+-Klik Ok

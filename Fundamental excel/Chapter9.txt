@@ -1,0 +1,51 @@
+1. memunculkan subtotal sesuai dengan 
+perintah usher dengan sort
+Management, IBM, dan Bussiness
+-Pilih Salah Satu Header 
+-Pilih toolbar Data
+-Klik Sort pada toolbox
+-Pilih Sort By Jenis Penghargaan
+-Pilih Order High Merit, Summa Cum Laude
+-Lalu Klik Ok
+-Setelah Itu Blok Tabel secara keseluruhan
+-masih di bagian data klik subtotal pada toolbox
+-Pilih Use Function Sum dulu
+-Cari total biaya per semester pada Add subtotal to
+-Lalu Klik ok
+-Blok Lagi Seluruh Tabel
+-Klik Subtotal pada toolbox
+-Klik opsi MAX pada Use Function
+-Uncheklist Biaya Per Semester
+-Cheklist Nilai
+-setelah itu uncheklist Pada Menu Replace current subtotals
+-Lalu Klik Ok
+
+
+2. Membuat diagarm batang
+-Blok Data Nama, Nilai Dari 10 ke atas saja
+-Masuk Toolbar Insert
+-Klik Diagram Batang Pada toolbox
+-Untuk Memunculkan Angka Klik kanan Add Data Labels
+-Untuk Memunculkan background Klik Kanan Format Plot Area
+-Pilih Picture or texture fill
+-Pilih warna texture sesuai dengan kesukaan
+
+
+3. Membuat diagram lingkaran dan memunculkan
+label hingga edit background dan title
+-Blok Tabel Jurusan
+-Pilih toolbar Insert
+-klik Menu Chart Pada toolbox
+-Lalu Pilih Chart bentuk pie
+-Setelah itu ubah title menjadi "Jurusan Mahasiswa"
+-Setelah itu klik kanan pilih Format Chart Area untuk
+mengganti background
+-Pilih fill
+-Warnai Sesuai suka suka
+-untuk memunculkan angka klik kanan pada diagram
+-lalu klik kanan pilih Add Data Labels
+-Muncul angka
+-Untuk memunculkan Persen Klik Kanan
+Pilih Format Data Labels
+-Checklist Category name, Percentage, Legend Key
+

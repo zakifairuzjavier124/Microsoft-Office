@@ -1,0 +1,33 @@
+Urutkan data secara ascending
+-Klik bagian salah satu header
+-Masuk toolbar Data
+-Cheklist my list has headers bagi yang belum di checklist
+-Pilih Sort By Nama
+-Pilih Order A to Z
+
+Urutkan data secara descending
+-Klik bagian salah satu header
+-Masuk toolbar Data
+-Cheklist my list has headers bagi yang belum di checklist
+-Pilih Sort By Nama
+-Pilih Order Z to A
+
+Urutkan Harga Mulai Dari Terbesar ke Terkecil
+-Klik Salah Satu header
+-Klik Data pada toolbar
+-klik Short
+-Pilih kolom short by harga
+-pilih largest to smallest
+
+Eliminasi data berdasarkan negara tujuan ke australia
+-pilih data pada toolbar
+-pilih filter menyerupai ikon corong
+-klik negara tujuan yang difilter
+-pilih checklist pada kata "Australia" di menu filter sisanya
+unchecklist semua negara
+
+Eliminasi Data berdasarkan maksimum kapasitas jet 8 orang
+-pilih tollbar data
+-klik icon corong bernama filter
+-klik baris Kapasitas Penumpang
+-sisanya unchecklist cheklist hanya 8 orang saja 

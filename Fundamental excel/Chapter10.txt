@@ -1,0 +1,44 @@
+1. membuat susunan PIVOT TABEL
+untuk analisis data keuangan
+-Klik sel salah satu dari tabel
+-Pilih toolbar Insert
+-Klik PIVOT TABEL
+-Blok Tabel untuk dimasukkan ke dalam
+kolom Table/Range Di PivotTable
+-Pilih Opsi New WorkSheet Pada 
+Choose where you want the PivotTable
+to be placed
+-Lalu Klik Ok
+-Setelah itu Klik Kanan
+-klik PivotTable Options
+-Bagian Display pilih classic
+-Lalu Klik Ok
+-Masukkan Kota Toko Ke filter
+-Masukkan Nama Member Ke row
+-Masukkan Jenis Keanggotaan Ke column
+-Masukkan Bagian Diskon Ke Values
+-Masukkan Harga Akhir ke values
+-Masukkan Biaya pengiriman Ke Values
+-Klik button information pada Diskon
+-Klik Value Field Settings
+-Pilih Summarize Values By Max
+-Lalu Klik Ok
+-Klik Button Biaya Pengiriman
+-Pilih Summarize By Min
+-Filter jakarta dan tangerang
+-agar lebih ringkas Value bagian Column taruh Rows
+-yang ada row kosong klik kanan
+-Pilih PivotTable Options
+-Di bagian Layout formats
+-Ketik $ pada kolom for empty cells show
+-untuk perataan di blok tabelnya
+-Lalu Pilih rata tengah
+-Kalau ingin pakai mata uang di blok tabelnya
+-Klik kanan pilih formst cells
+-Pilih accounting Pilih RP
+
+2.Mengedit tampilan visual PIVOT
+TABEL
+
+3.Menampilkan PIVOT CHART dan
+Mengedit item dan detail chart

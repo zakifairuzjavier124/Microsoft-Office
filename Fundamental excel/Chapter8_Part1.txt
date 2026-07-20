@@ -1,0 +1,41 @@
+Munculkanlah NIM maksimal 10
+digit angka
+-Pilih menu data
+-Pilih Data Validation
+-Pilih Whole Number
+
+Nama maksimal memiliki 20
+karakter
+-Pilih toolbar Data
+-Pilih Setting
+-Pilih Text Length Pada Allow
+-Pilih less than or equal to pada Data
+-Pilih Maksimum 20
+-lalu klik ok
+
+Jurusan dapat dipilih sesuai
+dengan TABEL LIST
+-Pilih toolbar Data
+-Pilih Data Validation
+-Pilih Allow List
+-Buat Source dengan blok Tabel list jurusan
+-Ke Input Message
+-Ketik di bagian title Jurusan
+-isi box "Input Message"
+-Pindah Error Alert
+-Isi title "Kurang tepat!"
+-Pilih Style Information Pada Error Alert
+-Klik Ok
+
+Tahun kelahiran yang layak yaitu
+hanya antara 1990 sampai dengan 
+2000
+-Pilih toolbar Data
+-Pilih Data Validation
+-Ketik Start Date "31/01/1990"
+-Ketik End date "31/12/2000"
+-Pindah Input Message
+-Ketik Title Tanggal Lahir
+-Pindah Error Alert
+-Ketik Title SALAH
+-Ketik Error Message harus diantara tahun 1990 sampai 200

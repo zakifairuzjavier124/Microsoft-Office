@@ -1,0 +1,32 @@
+Total biaya:
+=SUM(I6:I25)
+
+Rata-Rata Total  Peminjaman:								
+=AVERAGE(K6:K25)
+
+Biaya kredit terendah:
+=MIN(I6:I25)
+
+Biaya Kredit tertinggi:
+=MAX(I6:I25)
+
+Jumlah nasabah laki laki:
+=COUNTIF(D6:D25;D6)
+
+jumlah nasabah dengan tempat lahir di jakarta:
+=COUNTIF(E6:E25;E6)
+
+jumlah nasabah Perempuan dengan tempat lahir di sulawesi:
+=COUNTIFS(D6:D25;D9;E6:E25;E8)
+
+Total peminjaman nasabah perempuan:
+=SUMIF(D6:D25;D9;K6:K25)
+
+total peminjaman nasabah laki laki usia 27 tahun:
+=SUMIFS(K6:K25;D6:D25;D6;H6:H25;H8)
+
+Rata-rata biaya kredit dengan tenor 9 bulan:
+=AVERAGEIF(J6:J25;J8;I6:I25)
+
+
+								

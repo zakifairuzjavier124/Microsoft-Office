@@ -1,0 +1,46 @@
+Munculkan data dengan nama
+member mengandung dua huruf A
+-Copy Baris yang bernama Nama Member
+-Tuliskan *a*a* sebagai referensi
+-Pilih Toolbar Data
+-Lalu klik Advanced-
+-Muncul Adanced Filter
+-Klik Copy to another location
+-Buat List Rangenya
+-Setelah itu buat criteria rangenya dari tabel yang sudah kita copy
+-Setelah itu buat copy to anothernya dengan pencet row kosong
+
+Munculkan data dengan Kota Toko
+yang diawali huruf J
+-Copy baris Kota Toko
+-Ketik "j?" sebagai referensi
+-Setelah itu Pilih toolbar Data
+-Klik Advanced
+-List Range tidak usah diubah
+
+
+Munculkan data dengan jenis keanggotaan STANDART MEMBER
+dan Kota Toko BOGOR
+-Copy -baris Jenis Kenaggotaan
+-Copy Baris Standard Member sebagai referensi
+-Copy Baris Kota Toko
+-Copy Baris Kota Bogor sebagai referensi
+-pilih toolbar data
+-Klik Advanced Filter
+-Klik Copy Another Location
+-List Range Tidak usah diubah
+-buat criteria range yang mana
+-Setelah itu buat Copy To mau mengarah row yang mana
+
+Munculkan data jenis keanggotaan
+GOLD dan Pembelian Console total
+kurang dari 2.000.000.000
+-Copy Baris Jenis Kenaggotaan
+-Copy Baris "GOLD" sebagai referensi
+-Copy Baris Pembelian Console
+-Ketik rumus SUM(G4:G27)<2000000000
+-Klik Advanced Filter
+-List Range Tidak Usah Diubah
+-Buat criteria range
+-Klik Copy to another
+-Buat copy to dengan menaruh baris yang kosong

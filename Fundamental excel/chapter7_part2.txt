@@ -1,0 +1,46 @@
+Tandai warna merah nama member
+yang mengandung huruf A = atau lebih dari dua
+-Blok dulu urutan yang pertama sampai terakhir pada tabel
+-Pilih toolbar Home
+-Pilih Conditional Formatting
+-Klik bagian Manage Rules
+-Pilih Format cells that contain
+-Pilih Specific Text
+-Pilih Containing
+-Ketik *a*a* samping containing
+-Pilih Format with warna merah
+
+
+Kota Toko Tangerang dengan
+warna kuning
+-Blok dulu urutan yang pertama sampai terakhir pada tabel
+-Pilih toolbar Home
+-Pilih Conditional Formatting
+-Klik bagian Manage Rules
+-Pilih Format cells that contain
+-Pilih Specific Text
+-Pilih Containing
+-Ketik Tangerang samping containing
+-Pilih Format with warna kuning
+
+Tanda warna BIRU untuk jenis
+keanggotaan Bronze
+-Blok dulu urutan yang pertama sampai terakhir pada tabel
+-Pilih toolbar Home
+-Pilih Conditional Formatting
+-Klik bagian Manage Rules
+-Pilih Format cells that contain
+-Pilih Specific Text
+-Pilih Containing
+-Ketik Bronze samping containing
+-Pilih Format with warna Biru
+
+Tandai untuk DISKON dengan warna ORANGE
+dengan 5 ranking tertinggi
+-Blok dulu urutan yang pertama sampai terakhir pada tabel
+-Pilih toolbar Home
+-Pilih Conditional Formatting
+-Klik bagian Manage Rules
+-Pilih Format with ranked values
+-Ketik 5 samping containing
+-Pilih Format with warna orange

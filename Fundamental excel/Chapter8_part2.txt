@@ -1,0 +1,29 @@
+1.Mentotalkan data keuangan 1 dan data keuangan 2
+-Pilih toolbar Data
+-Klik Consolidate pada toolbox
+-Pilih Opsi Function Sum
+-Buat reference dengan blok Data Keuangan 1 dan 2
+-Blok Tabel yang diisi yaitu Tabel Consolidate 1
+-Lalu Klik Ok Pada Consolidate
+
+2.Mencari rata rata dari data keuangan 1 dan data keuangan 2
+-Pilih toolbar Data
+-Pilih Consolidate
+-Pilih Function Average
+-Buat Reference dengan blok tabel Data Keuanngan 1 dan 2
+-Blok Tabel yang diisi yaitu Consolidate 1
+-Lalu Klik Ok
+
+3.mencari nilai tertinggi pada service tax dan nilai terendah harga akhir
+-Pilih Toolbar Data
+-Klik Consolidate pada toolbox
+-Pilih MAX Pada Opsi Function di Consolidate Box
+-Blok Tabel Data Keuangan 1 dan 2 untuk reference
+-Isikan bagian Service Tax Nilai Terbsesar
+-Bagian Harga Akhir Nilai Terkecil
+
+
+
+
+5+8= 13/2=6.5
+8+8+7=22/3=
